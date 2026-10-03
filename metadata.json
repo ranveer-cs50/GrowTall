@@ -1,0 +1,6 @@
+{
+  "name": "GrowTall",
+  "description": "Puberty protein scanner and height growth nutrition tracker for ages 10-17 with real-time food detection, growth analytics, and healthy meal alternatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
